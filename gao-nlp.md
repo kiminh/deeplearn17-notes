@@ -2,10 +2,9 @@
   natural language processing (NLP) tasks
 * deep learning technologies that are recently developed for three areas of NLP
   tasks.  
-  1. a series of deep learning models to model semantic similarities between
-     texts and images, the task that is fundamental to a wide range of
-     applications, such as Web search ranking, recommendation, image captioning
-     and machine translation. 
+  1. semantic similarities between texts and images, the task that is
+     fundamental to a wide range of applications, such as Web search ranking,
+     recommendation, image captioning and machine translation. 
   2. a set of neural models developed for machine reading comprehension and
      question answering
   3. dialogue agents, including task-completion bots and social chat bots.

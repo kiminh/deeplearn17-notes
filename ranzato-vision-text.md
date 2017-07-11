@@ -1,11 +1,11 @@
-* * convolutional neural networks, and embeddings. The former is employed in
-*   audio and visual processing applications, while the latter is used for
-*   representing text, graphs and other discrete or symbolic data
-* * deal with sequential data, like videos. 
-* * Lectures will provide intuitions, the underlying mathematics, typical
-*   applications, code snippets and references
-* * attendees are expected to gain enough familiarity to be able to apply these
-*   basic tools to standard datasets on their own.
+* convolutional neural networks, and embeddings. The former is employed in
+* audio and visual processing applications, while the latter is used for
+* representing text, graphs and other discrete or symbolic data
+* deal with sequential data, like videos. 
+* Lectures will provide intuitions, the underlying mathematics, typical
+* applications, code snippets and references
+* attendees are expected to gain enough familiarity to be able to apply these
+  basic tools to standard datasets on their own.
 
 #Syllabus
 
