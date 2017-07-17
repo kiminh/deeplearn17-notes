@@ -1,3 +1,5 @@
+Marc’Aurelio Ranzato, FB AI Research Lab
+
 * convolutional neural networks, and embeddings. The former is employed in
 * audio and visual processing applications, while the latter is used for
 * representing text, graphs and other discrete or symbolic data
@@ -28,3 +30,8 @@
 * Learning from sequences: Recurrent Neural Networks (RNNs).
 * How to train and generate from RNNs, variants of RNNs.
 * Examples of applications of RNNs using pyTorch.
+
+#Monday
+
+- p95 pooling represents that an eye can appear anywhere
+- p98 pooling and the parameter space
