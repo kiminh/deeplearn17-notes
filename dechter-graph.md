@@ -29,3 +29,13 @@ with cost-shifting.
   * Marginal Map by AND/OR search
   * Sampling: Cutset-sampling, SampleSearch and AND/OR sampling (as time
     permits)
+
+#1 Models
+
+#2 Inference
+
+- p26 when the dual graph is a tree
+- the goal of conditioning is to arrive at a tree
+- p50 optimal varaiable assignment rather than just the opt value
+- width of a variable: number of archs downwards from it?
+- p61 trading memory for time
