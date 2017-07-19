@@ -22,3 +22,8 @@
 8. Frontiers
   * Application to robotics
   * Application to natural language understanding
+
+#Fundations
+
+- Monte Carlo method, dynamic programming, exhaustive search, and sg else put in
+a 2x2 mx
