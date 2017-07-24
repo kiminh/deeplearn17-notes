@@ -45,7 +45,6 @@
 
 ##1: Background
 
-
 - DL in 50s: _cybernetics_
 - Wave 3: layer-wise training?, 
   - not used any more, but significant for bringing the 3dr wave
