@@ -4,7 +4,7 @@ Az első nap négy előadót ismertem meg. Háromszor is hallottam Li Denget, an
 [Speech Recognition, a Deep Learning Perspective](http://www.springer.com/gp/book/9781447157786) (vagy fordítva) című könyvnek
 a szerzőjét, ami boldogult speeches korunkban olvastunk. Először keynote-ként
 beszélt egy olyan módszerről, amit a felügyelt és a felügyeletlen tanulás közé
-esik [arXiv](https://arxiv.org/abs/1702.07817): van az adat, meg vannak címkék is, csak nincs párosítva. A beharangozóban
+esik ([arXiv:1702.07817](https://arxiv.org/abs/1702.07817)): van az adat, meg vannak címkék is, csak nincs párosítva. A beharangozóban
 azt írta, hogy ezt a módszert a kriptográfia ihlette, de ezt a részt az
 előadásban nem mondta, vagy legalábbis én lemaradtam róla. A háromrészes
 előadássorozatának, pontosabban annak az első két résznek, ami ma volt, azt a
@@ -15,11 +15,10 @@ azelőtt nem ismertem, és attól tartok, hogy mások sem, mégis volt benne val
 [2012](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GQWTo4MAAAAJ&citation_for_view=GQWTo4MAAAAJ:wGzT3bKASkAC)-re mint régi
 időkre utalva.
 
-Az első idősávban  Dechter és társának a grafikus (mármint gráfos
-valószínűségi)
-modellektől szóló előadására ültem be. Jó előadók, jól strukturálták is az
-előadást, de valahogy nem keltette föl az érdeklődésemet, illetve a viszonylag
-lassú tempó ellenére nem volt mindenütt érthető.
+Az első idősávban  Rina Dechter és Alexander Ihler grafikus (mármint gráfos
+valószínűségi) modellektől szóló előadására ültem be. Jó előadók, jól
+strukturálták is az előadást, de valahogy nem keltette föl az érdeklődésemet,
+illetve a viszonylag lassú tempó ellenére nem volt mindenütt érthető.
 
 A szünetekben nem volt enni-innivaló, pontosabban egy nagyon túlterhelt büfében
 lehetett vásárolni, amin annyira berágtam (persze csak a szó átvitt
@@ -27,10 +26,10 @@ lehetett vásárolni, amin annyira berágtam (persze csak a szó átvitt
 óvárosba, ami Bilbao talán legszebb része, mégis itt van a legolcsóbb
 hagyományos ebéd, ital--előétel--főétel--desszert 12 euróért. Finomat ettem,
 jól laktam, és a nagyon intenzív hőségben visszamenve beültem
-[Wu](http://www.stat.ucla.edu/~ywu/research.html)nak a
+[Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html)nak a
 képgenerálásról szóló előadására, és ott egy jót sziesztáztam. Amikor ébren
 voltam, úgy tűnt, hogy színvonalas előadás, úgyhogy holnap délelőtt újra hozzá
-fogok menni. A délutáni középső előadásban Ranzatót hallgattam, aki eleinte
+fogok menni. A délutáni középső előadásban Marc'Aurelio Ranzatót hallgattam, aki eleinte
 ugyancsak gépi látásról beszélt (neki ez már a második előadása volt,
 mindenkinek három van), utána pedig nyelvről. LSA-val kezdte, majd
 nagyon érdekesen tért át az embeddingekre: a bigramgyakoriságot ábrázoló
