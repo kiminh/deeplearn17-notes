@@ -64,6 +64,7 @@ part 3 sem pars & QA
 
 - the test of intelligence: QA
 - categs of **early** QA syss (not just text-based)
+- _object_ and _subject_
 
 ##KB-embed 
 
@@ -87,3 +88,30 @@ also RNN (Neelakantan+ 15) sum (Lin+ 15)
     - prune or sample (Lao+ 11, Lin+ 15, Guu+ 15)
   - take nodes into account
 - more compositions (Toutanova+ acl 16)
+
+##KB-based QA
+
+- Generic Sem Parsing Kwiatkowski+ 13
+- SEMPRE \lambda-DCS  (Liang 2013)
+  - DCS: dep based comp sem
+  - Bridging (Berant+ emnlp 13) 
+    - Which college did Obama go to? 
+    - college and Obama is OK, but _go to_ is too difficult. 
+      - Bridginig is a work-around
+  - paraphrasing Berant & Liang acl 14
+- CCG-graph Reddy+ tacl 14
+- MT Bao+ acl 14
+  - CYK-like algo
+
+  Staged query grapj gen
+
+Information Extract Yao & Van Durme acl 14
+Embeddings Bordes+ emnlp 14
+
+##Yih+ acl 2016: Value of Sem Parse Lab 4 KB QA
+
+##Search-based neural structed learning for seq QA
+
+##Deferred (read papers)
+
+* Dynamic Semantic Parser
