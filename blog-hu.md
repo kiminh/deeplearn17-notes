@@ -1,8 +1,10 @@
-Az első nap négy előadót ismertem meg. Háromszor is hallottam Denget, annak a
+# Hétfő
+
+Az első nap négy előadót ismertem meg. Háromszor is hallottam Li Denget, annak a
 [Speech Recognition, a Deep Learning Perspective](http://www.springer.com/gp/book/9781447157786) (vagy fordítva) című könyvnek
-a szerzőjét, amit boldogult speeches korunkban olvastunk. Először keynote-ként
+a szerzőjét, ami boldogult speeches korunkban olvastunk. Először keynote-ként
 beszélt egy olyan módszerről, amit a felügyelt és a felügyeletlen tanulás közé
-esik: van az adat, meg vannak címkék is, csak nincs párosítva. A beharangozóban
+esik [arXiv](https://arxiv.org/abs/1702.07817): van az adat, meg vannak címkék is, csak nincs párosítva. A beharangozóban
 azt írta, hogy ezt a módszert a kriptográfia ihlette, de ezt a részt az
 előadásban nem mondta, vagy legalábbis én lemaradtam róla. A háromrészes
 előadássorozatának, pontosabban annak az első két résznek, ami ma volt, azt a
