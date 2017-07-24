@@ -29,12 +29,14 @@ jól laktam, és a nagyon intenzív hőségben visszamenve beültem
 [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html)nak a
 képgenerálásról szóló előadására, és ott egy jót sziesztáztam. Amikor ébren
 voltam, úgy tűnt, hogy színvonalas előadás, úgyhogy holnap délelőtt újra hozzá
-fogok menni. A délutáni középső előadásban Marc'Aurelio Ranzatót hallgattam, aki eleinte
+fogok menni. 
+
+A délutáni középső előadásban Marc'Aurelio Ranzatót hallgattam, aki eleinte
 ugyancsak gépi látásról beszélt (neki ez már a második előadása volt,
-mindenkinek három van), utána pedig nyelvről. LSA-val kezdte, majd
-nagyon érdekesen tért át az embeddingekre: a bigramgyakoriságot ábrázoló
-mátrix (szószor szó) dimenziócsökkentéssel simított alakját fogalmazta át
-hálóvá. Őt is tovább hallgatom holnap.
+mindenkinek három van), utána pedig nyelvről. LSA-val kezdte, majd nagyon
+érdekesen tért át az embeddingekre: a bigramgyakoriságot ábrázoló mátrix
+(szószor szó) dimenziócsökkentéssel simított alakját fogalmazta át hálóvá. Őt
+is tovább hallgatom holnap.
 
 # Kedd
 
@@ -112,9 +114,9 @@ lassan rájöttem, hogy több Gao nevű nyelvtechnológus is van, most pedig, ho
 nyári egyetemről hazatérve utánanéztem, a több közül kettőnek a munkája is
 relevánsnak tűnik embedding témában. Mindenesetre most nem [Bin
 Gaó](https://scholar.google.hu/citations?user=O45XKiQAAAAJ&hl=en&oi=sra)ról
-fogok írni, aki a Xu+ 14 és a Tian+ 14 szerzői között szerepel, hanem [Jianfeng
+fogok írni, aki a [Xu+ 14](dl.acm.org/citation.cfm?id=2662038) és a [Tian+ 14](www.aclweb.org/anthology/C14-1016) szerzői között szerepel, hanem [Jianfeng
 Gaó](https://www.microsoft.com/en-us/research/people/jfgao/#)ról. Az előadást a Hintonéhoz hasonló flegmatikus személyisége fűszerezte
-(what is _more interesting, or less boring,..._). Ahogy már írtam, már a
+(_what is more interesting, or less boring, is..._). Ahogy már írtam, már a
 ,,kibernetika" történetéről szóló bevezetőjével levett a lábamról, Az első
 nagyobb témája a mély szemantikus hasonlósági modellek voltak: a gépi fordítás
 és a webkeresés problémáját is úgy fogalmazta meg, hogy az outputnak (fordítás
