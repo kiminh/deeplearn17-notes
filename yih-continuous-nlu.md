@@ -1,3 +1,10 @@
+Numbers prefixed with q and k denote page numbers in the two presentations made
+available through the summer school home page, 
+  * _Semantic Parsing for **Q**uestion Answering_ and 
+  * _**K**B Embedding_ respectively.
+
+#From the course description
+
 The rest of lecture focuses on two key natural language understanding tasks:
 * information extraction
   * Transforming unstructured text to structured databases
@@ -47,14 +54,18 @@ The rest of lecture focuses on two key natural language understanding tasks:
 
 #Notes taken during the courses
 
-- tutorials linked in the course description and related
-  - Yih, He & Gao. Deep learning and continuous representations for natural
-    language processing. Tutorial presented in HLT-NAACL-2015, IJCAI-2016.  
-  - Yih & Ma. [Question answering with knowledge bases, Web and beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)
-    Tutorial presented in HLT-NAACL-2016, SIGIR-2016.  
-  - Tutorial to be presented in ACL-2017
-    - linked Poon, Quirk, Toutanova & Yih. Natural Language Processing for Precision Medicine. 
-    - also there: Deep Learning for Semantic Composition, Xiaodan Zhu and Edward Grefenstette
+## tutorials linked in the course description and related
+
+- Yih, He & Gao. 
+Deep learning and continuous representations for natural language processing.
+Tutorial presented in HLT-NAACL-2015, IJCAI-2016.  
+- Yih & Ma. [Question answering with knowledge bases, Web and beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)
+  Tutorial presented in HLT-NAACL-2016, SIGIR-2016.  
+- Tutorial to be presented in ACL-2017
+  - linked Poon, Quirk, Toutanova & Yih. Natural Language Processing for Precision Medicine. 
+  - also there: Deep Learning for Semantic Composition, Xiaodan Zhu and Edward Grefenstette
+
+#Overview
 
 Part 1 QA, deep learning
 part 2 konwl base embed & info extract
@@ -64,14 +75,16 @@ part 3 sem pars & QA
 
 - the test of intelligence: QA
 - categs of **early** QA syss (not just text-based)
-- _object_ and _subject_
 
 ##KB-embed 
 
-- tensor decomp
-loss func is least sqs of $ v(Obama) \times R_bornIn \times v(hawai)^T $
-- typed tensor decomp (Chang+ emnlp 14)
-- Exper: KB completion
+- _object_ and _subject_
+- tensor decomp k8
+  - loss func is least sqs of $ v(Obama) \times R_bornIn \times v(hawai)^T $
+  - typed tensor decomp (Chang+ emnlp 14)
+  * training: alternating least squares k15
+  - Exper: KB completion
+* neural k21
 
 ## KB augmented with textual relations
 
@@ -103,15 +116,28 @@ also RNN (Neelakantan+ 15) sum (Lin+ 15)
 - MT Bao+ acl 14
   - CYK-like algo
 
-  Staged query grapj gen
+##Staged query grapj gen q73
+
+* STAGG: Semantic Parsing via Staged Query Graph Generation 
+  [Yih, Chang, He & Gao. ACL-2015]
+* Relation matching using deep CNN (DSSM [Shen+ 14]) q19
+* reward function $\gamma$ q21
 
 Information Extract Yao & Van Durme acl 14
 Embeddings Bordes+ emnlp 14
 
-##Yih+ acl 2016: Value of Sem Parse Lab 4 KB QA
+##Value of Sem Parse Lab 4 KB QA q35
 
-##Search-based neural structed learning for seq QA
+* WebQuestionsSP: A new dataset with labeled semantic parses [Yih, Richardson, Meek, Chang & Suh. ACL-2016]
 
-##Deferred (read papers)
+##Search-based neural structed learning for seq QA q49 
 
-* Dynamic Semantic Parser
+* (instead of) (highly) compositional questions 
+* Dynamic Semantic Parser q55 
+* paper: Search-based Neural Structured Learning for Sequential Question Answering [Iyyer, Yih & Chang. ACL-2017]
+* related work q64
+  * Floating Parser (FP)  [Pasupat & Liang. ACL-15]
+  * Neural Programmer (NP)  [Neelakantan et al. ICLR-17]
+  * Both FP & NP were designed for WikiTableQuestions
+
+##Summary q71
