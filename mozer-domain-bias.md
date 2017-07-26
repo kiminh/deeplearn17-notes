@@ -24,3 +24,39 @@
   - via data augmentation
   - via architecture design
 * Case studies of model crafting: memory in humans and recurrent networks 
+
+#1 Overview 
+
+* My background
+* Inductive bias
+* Means of imposing domain-appropriate bias
+* Case studies involving deep learning and memory
+
+#Ppt 2 
+
+* Means Of Imposing Domain-Appropriate Bias
+* Data augmentation p3
+* Loss function p8
+  * Perceptually Grounded Losses
+* Representation p27
+  * Psychologically Grounded Representations
+    * Music composition network (Mozer, 1994)
+  * Relational Constraints For Representation Learning
+* Architectural constraints p56
+  * brain: What versus where cortical processing p60
+  * Fine-grain classification of birds p66
+
+#3 Deep Learning Architectures Through Understanding Human Minds/Brains?
+
+* Forgetting Is Influenced By The Temporal Distribution Of Study p5
+* modeling and predicting many human activities p15
+* Recent Research Involving Temporally Situated Events p16
+
+##Hawkes  Process p18
+
+* Neural Hawkes Process Memory p28
+  * exper
+    * Reddit p33
+  * Word Learning Study (Kang et al., 2014) p37
+
+##Continuous Time Gated Recurrent Networks p44
