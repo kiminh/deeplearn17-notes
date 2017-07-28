@@ -126,6 +126,13 @@
   * Worked beautifully, just not very often, because of paraphrase alternations
 * neural: 
   * ReasoNet with Shared Memory [Shen+ 16a] p195
+  * other models (with inference steps) p204
+    * Maluuba: EpiReader [Trischler+ 16] Attention sum reader Single-step
+    * Maluuba: Iterative AR [Sordoni+ 16] Attention sum reader
+    * Multi-step, step size is predefined
+    * BiDAF [Seo+ 16] Co-attention Single-step
+    * MSR: ReasoNet [Shen+ 16b] Co-attention Dynamic multi-step 
+    * MSRA: R-net [Wang+ 17]
   * RL p215
 
 ##5: Deep reinforcement learning for task-completion dialogue p219
